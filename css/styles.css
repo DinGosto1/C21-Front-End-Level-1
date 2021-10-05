@@ -1,0 +1,19 @@
+h1{
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: aquamarine;
+font-size: 100px;
+}
+
+.mijnafbeelding{
+width: 300px;
+border: 1px solid crimson;
+}
+
+p{
+color: orange;
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.test{
+    color:orchid;
+}
